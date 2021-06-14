@@ -1,0 +1,15 @@
+C:\Users\Adrian\Desktop\STUDIA\RUCH W SIECI _PROJEKT\Pomiar przepustowości w sieci LAN\Server\bin\Debug\netcoreapp3.1\Server.exe
+C:\Users\Adrian\Desktop\STUDIA\RUCH W SIECI _PROJEKT\Pomiar przepustowości w sieci LAN\Server\bin\Debug\netcoreapp3.1\Server.deps.json
+C:\Users\Adrian\Desktop\STUDIA\RUCH W SIECI _PROJEKT\Pomiar przepustowości w sieci LAN\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.json
+C:\Users\Adrian\Desktop\STUDIA\RUCH W SIECI _PROJEKT\Pomiar przepustowości w sieci LAN\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.dev.json
+C:\Users\Adrian\Desktop\STUDIA\RUCH W SIECI _PROJEKT\Pomiar przepustowości w sieci LAN\Server\bin\Debug\netcoreapp3.1\Server.dll
+C:\Users\Adrian\Desktop\STUDIA\RUCH W SIECI _PROJEKT\Pomiar przepustowości w sieci LAN\Server\bin\Debug\netcoreapp3.1\Server.pdb
+C:\Users\Adrian\Desktop\STUDIA\RUCH W SIECI _PROJEKT\Pomiar przepustowości w sieci LAN\Server\obj\Debug\netcoreapp3.1\Server.csprojAssemblyReference.cache
+C:\Users\Adrian\Desktop\STUDIA\RUCH W SIECI _PROJEKT\Pomiar przepustowości w sieci LAN\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfoInputs.cache
+C:\Users\Adrian\Desktop\STUDIA\RUCH W SIECI _PROJEKT\Pomiar przepustowości w sieci LAN\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfo.cs
+C:\Users\Adrian\Desktop\STUDIA\RUCH W SIECI _PROJEKT\Pomiar przepustowości w sieci LAN\Server\obj\Debug\netcoreapp3.1\Server.dll
+C:\Users\Adrian\Desktop\STUDIA\RUCH W SIECI _PROJEKT\Pomiar przepustowości w sieci LAN\Server\obj\Debug\netcoreapp3.1\Server.pdb
+C:\Users\Adrian\Desktop\STUDIA\RUCH W SIECI _PROJEKT\Pomiar przepustowości w sieci LAN\Server\bin\Debug\netcoreapp3.1\Microsoft.Build.Utilities.v4.0.dll
+C:\Users\Adrian\Desktop\STUDIA\RUCH W SIECI _PROJEKT\Pomiar przepustowości w sieci LAN\Server\bin\Debug\netcoreapp3.1\Microsoft.Build.Framework.dll
+C:\Users\Adrian\Desktop\STUDIA\RUCH W SIECI _PROJEKT\Pomiar przepustowości w sieci LAN\Server\bin\Debug\netcoreapp3.1\System.Xaml.dll
+C:\Users\Adrian\Desktop\STUDIA\RUCH W SIECI _PROJEKT\Pomiar przepustowości w sieci LAN\Server\obj\Debug\netcoreapp3.1\Server.csproj.CopyComplete
